@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+sou+Hanniel+Alonso!;Desenvolvedor+em+evolução+constante.;Backend,+Node.js,+C%23+e+Games!&center=true&size=25&color=F7DF1E&duration=4000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Olá%2C+sou+Hanniel+Alonso!;Desenvolvedor+Backend+em+evolução.;Node.js+%7C+C%23+%7C+APIs+%7C+Games" alt="Typing SVG" />
 </h1>
 
 <p align="center">
