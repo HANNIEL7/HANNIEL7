@@ -1,24 +1,91 @@
-### Olá sou Hanniel Alonso 🖐️
-
-[![Liked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/hanniel-alonso-93067a348)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hannielseiya@gmail.com)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HANNIEL7)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HANNIEL7&show_icons=true&theme=dracula&locale=pt-br)
-
-### Tecnologias que eu uso no meu dia
-
-<div style= "display: inline_block"><br>
-<img align = "center" alt="javascript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align = "center" alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align = "center" alt="CSS" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align = "center" alt="Python" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 
-  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+sou+Hanniel+Alonso!;Desenvolvedor+em+evolução+constante.;Backend,+Node.js,+C%23+e+Games!&center=true&size=25&color=F7DF1E&duration=4000" alt="Typing SVG" />
+</h1>
 
+<p align="center">
+  <a href="https://br.linkedin.com/in/hanniel-alonso-93067a348" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hannielseiya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HANNIEL7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Disponível%20para%20colaboração-00C853?style=for-the-badge&logo=Handshake&logoColor=white"/>
+</p>
+
+---
+
+## 🧰 Tecnologias que uso no dia a dia
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+![Hanniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HANNIEL7&show_icons=true&theme=dracula&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HANNIEL7&layout=compact&theme=dracula&locale=pt-br)
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HANNIEL7&theme=dracula" alt="streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HANNIEL7&theme=tokyonight" />
 </div>
-<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanniel7&size_weigh=t0.5&count_weight=0.5&locale=pt-br)
+---
+
+## 📚 Atualmente aprendendo
+
+- 🔄 Node.js, Express e MongoDB  
+- 🔐 Autenticação com JWT  
+- 🧪 Testes com Jest e Supertest  
+- 💠 Desenvolvimento de jogos com C# e Unity  
+- 🧱 Arquitetura de APIs, REST, boas práticas backend
+
+---
+
+## 🎯 Objetivo
+
+Me tornar um **desenvolvedor backend completo**, com foco em criar APIs robustas, aplicações funcionais e jogos interativos para o dia a dia.
+
+---
+
+## 🚀 Projetos em destaque
+
+- ✅ **[API de Gerenciamento de Tarefas](https://github.com/HANNIEL7/gerenciador-de-tarefas-autenticado)** — JWT, MongoDB, Express  
+- 🎮 **Jogo com C# (em desenvolvimento)** — Lógica, pontuação, mecânicas básicas  
+- 🔧 **Em breve:** Aplicativo de recomendações musicais baseado em humor
+
+---
+
+## 🎮 Curiosidades
+
+- 💻 Crio projetos autorais como forma prática de consolidar o aprendizado  
+- 🎮 Desenvolvo jogos e aplicações que podem ser úteis no cotidiano  
+- 🤝 Gosto de trocar ideias sobre tecnologia e ajudar outros devs em formação
+
+---
+
+## 🔗 Vamos nos conectar!
+
+Sinta-se à vontade para me chamar ou acompanhar meus projetos.  
+Estou sempre buscando evoluir, colaborar e transformar ideias em código! 🚀
+
+---
