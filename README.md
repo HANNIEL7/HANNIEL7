@@ -41,11 +41,12 @@
 
 ---
 
-  <!--<div align="center">-->
 
   <!-- Título -->
   <h2>📊 Meu Desempenho no GitHub</h2>
 
+  <div align="center">
+  
   <!-- Linha 1: Commits, PRs, Issues -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <img 
@@ -80,7 +81,7 @@
     />
   </div>
 
-  <!--</div> -->
+  </div> 
 
 ---
 
