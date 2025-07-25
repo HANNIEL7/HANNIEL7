@@ -45,15 +45,15 @@
 
 <div align="center">
 
- <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=HANNIEL7&show_icons=true&theme=dracula&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api?username=HANNIEL7&show_icons=true&theme=tokyonight&locale=pt-br" 
       alt="Estatísticas GitHub" 
       height="180" 
       style="margin: 10px;" 
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HANNIEL7&layout=compact&theme=dracula&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HANNIEL7&layout=compact&theme=tokyonight&locale=pt-br" 
       alt="Linguagens mais usadas" 
       height="180" 
       style="margin: 10px;" 
@@ -63,7 +63,7 @@
   <!-- Linha 2: Streak + Resumo -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=HANNIEL7&theme=dracula" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=HANNIEL7&theme=tokyonight" 
       alt="Contribuições em sequência" 
       style="margin: 10px;" 
     />
