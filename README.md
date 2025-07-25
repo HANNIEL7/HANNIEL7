@@ -41,7 +41,7 @@
 
 ---
 
-<div align="center">
+  <!--<div align="center">-->
 
   <!-- Título -->
   <h2>📊 Meu Desempenho no GitHub</h2>
@@ -80,7 +80,7 @@
     />
   </div>
 
-</div>
+  <!--</div> -->
 
 ---
 
