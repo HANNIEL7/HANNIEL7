@@ -45,11 +45,34 @@
 
 <div align="center">
 
-![Hanniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HANNIEL7&show_icons=true&theme=dracula&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HANNIEL7&layout=compact&theme=dracula&locale=pt-br)
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HANNIEL7&theme=dracula" alt="streak"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HANNIEL7&theme=tokyonight" />
+  <!-- Linha 1 -->
+  <div>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=HANNIEL7&show_icons=true&theme=dracula&locale=pt-br" 
+      alt="GitHub Stats" 
+      style="margin: 10px;" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HANNIEL7&layout=compact&theme=dracula&locale=pt-br" 
+      alt="Top Langs" 
+      style="margin: 10px;" 
+    />
+  </div>
+
+  <!-- Linha 2 -->
+  <div>
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=HANNIEL7&theme=dracula" 
+      alt="GitHub Streak" 
+      style="margin: 10px;" 
+    />
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HANNIEL7&theme=dracula" 
+      alt="Resumo do Perfil" 
+      style="margin: 10px;" 
+    />
+  </div>
+
 </div>
 
 ---
@@ -72,7 +95,7 @@ Me tornar um **desenvolvedor backend completo**, com foco em criar APIs robustas
 
 ## 🚀 Projetos em destaque
 
-- ✅ **[API de Gerenciamento de Tarefas](https://github.com/HANNIEL7/gerenciador-de-tarefas-autenticado)** — JWT, MongoDB, Express  
+- ✅ **[API de Gerenciamento de Tarefas](https://github.com/HANNIEL7/GerenciadorDeTarefasAPI)** — JWT, MongoDB, Express  
 - 🎮 **Jogo com C# (em desenvolvimento)** — Lógica, pontuação, mecânicas básicas  
 - 🔧 **Em breve:** Aplicativo de recomendações musicais baseado em humor
 
