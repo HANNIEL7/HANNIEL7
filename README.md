@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=D946EF&center=true&vCenter=true&width=700&lines=Olá%2C+sou+Hanniel+Alonso!;Desenvolvedor+Backend+em+evolução.;Node.js+%7C+C%23+%7C+APIs+%7C+Games" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Olá%2C+sou+Hanniel+Alonso!;Desenvolvedor+Backend+em+evolução.;Node.js+%7C+C%23+%7C+APIs+%7C+Games" />
 </h1>
 
 <p align="center">
