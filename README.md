@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0071fc&height=120&section=header"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Olá%2C+sou+Hanniel+Alonso!;Desenvolvedor+Backend+em+evolução.;Node.js+%7C+C%23+%7C+APIs+%7C+Games" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Olá%2C+sou+Hanniel+Alonso!;Desenvolvedor+Backend+em+evolução"/>
 </h1>
 
 <p align="center">
@@ -14,7 +14,6 @@
   <a href="https://www.instagram.com/hanniel.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
- 
 </p>
 
 <p align="center">
@@ -36,52 +35,38 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supertest-333?style=for-the-badge&logo=mocha&logoColor=white"/>
-
 </p>
 
 ---
 
+<h2 align="center">📊 Meu Desempenho no GitHub</h2>
 
-  <!-- Título -->
-  <h2>📊 Meu Desempenho no GitHub</h2>
+<div align="center">
 
-  <div align="center">
-  
-  <!-- Linha 1: Commits, PRs, Issues -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HANNIEL7&theme=tokyonight" 
-      alt="Resumo do Perfil GitHub" 
-      style="margin: 10px;" 
-    />
-  </div>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HANNIEL7&theme=blueberry"
+    alt="Resumo do Perfil GitHub"
+  />
+  <br>
 
-  <!-- Linha 2: Contribuições em sequência -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=HANNIEL7&theme=tokyonight" 
-      alt="GitHub Streak" 
-      style="margin: 10px;" 
-    />
-  </div>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HANNIEL7&theme=blueberry"
+    alt="GitHub Streak"
+  />
+  <br>
 
-  <!-- Linha 3: Estatísticas gerais -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=HANNIEL7&show_icons=true&theme=tokyonight&locale=pt-br" 
-      alt="GitHub Stats" 
-      height="180" 
-      style="margin: 10px;" 
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HANNIEL7&layout=compact&theme=tokyonight&locale=pt-br" 
-      alt="Linguagens mais usadas" 
-      height="180" 
-      style="margin: 10px;" 
-    />
-  </div>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=HANNIEL7&show_icons=true&theme=blueberry&locale=pt-br"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HANNIEL7&layout=compact&theme=blueberry&locale=pt-br"
+    alt="Linguagens mais usadas"
+    height="180"
+  />
 
-  </div> 
+</div>
 
 ---
 
@@ -123,6 +108,5 @@ Sinta-se à vontade para me chamar ou acompanhar meus projetos.
 Estou sempre buscando evoluir, colaborar e transformar ideias em código! 🚀
 
 ---
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0071fc&height=100&section=footer"/>
