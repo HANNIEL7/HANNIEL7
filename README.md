@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0071fc&height=120&section=header"/>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Olá%2C+sou+Hanniel+Alonso!;Desenvolvedor+Backend+em+evolução.;Node.js+%7C+C%23+%7C+APIs+%7C+Games" />
 </h1>
@@ -121,3 +123,6 @@ Sinta-se à vontade para me chamar ou acompanhar meus projetos.
 Estou sempre buscando evoluir, colaborar e transformar ideias em código! 🚀
 
 ---
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0071fc&height=100&section=footer"/>
