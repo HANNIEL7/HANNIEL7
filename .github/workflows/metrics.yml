@@ -1,10 +1,9 @@
-
-name: Atualizar métricas do README
+name: Atualizar metricas do README
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # todo dia às 06:00 UTC (03:00 no horário de Brasília)
-  workflow_dispatch:        # permite rodar manualmente pela aba Actions
+    - cron: '0 6 * * *'
+  workflow_dispatch:
 
 jobs:
   github-metrics:
