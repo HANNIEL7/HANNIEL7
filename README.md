@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0071fc&height=120&section=header"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Olá%2C+sou+Hanniel+Alonso!;Desenvolvedor+Backend+em+evolução"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+Hanniel+Alonso;Estudante+de+ADS+%7C+Backend+em+forma%C3%A7%C3%A3o;Java+%2F+Spring+Boot+%7C+Clean+Architecture"/>
 </h1>
 
 <p align="center">
@@ -17,82 +17,64 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Disponível%20para%20colaboração-00C853?style=for-the-badge&logo=Handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aberto%20a%20oportunidades-00C853?style=for-the-badge&logo=Handshake&logoColor=white"/>
 </p>
 
 ---
 
-## 🧰 Tecnologias que uso no dia a dia
+## Sobre mim
+
+Estudante de **Análise e Desenvolvimento de Sistemas**, em formação prática como desenvolvedor backend. Meu foco atual está em **Java, Spring Boot e princípios de arquitetura de software** (Clean Architecture, separação de responsabilidades, modelagem de domínio), com projetos autorais usados como laboratório real de aprendizado — não apenas exercícios isolados.
+
+Tenho também interesse consolidado em **Linux e cibersegurança**, com ambiente de desenvolvimento em Ubuntu e prática em plataformas como TryHackMe e HackTheBox.
+
+Gosto de documentar o raciocínio por trás de cada decisão técnica: entender *por que* uma abordagem é melhor que outra é mais importante, para mim, do que apenas fazer o código funcionar.
+
+---
+
+## Stack atual
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-282C34?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bcrypt-4B8BBE?style=for-the-badge&logo=lock&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supertest-333?style=for-the-badge&logo=mocha&logoColor=white"/>
 </p>
+
+<p align="center"><i>Em aprofundamento: arquitetura de software, testes automatizados, e fundamentos de segurança ofensiva.</i></p>
 
 ---
 
-<h2 align="center">📊 Meu Desempenho no GitHub</h2>
+<h2 align="center">Desempenho no GitHub</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HANNIEL7&theme=blueberry" alt="Resumo do Perfil GitHub"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HANNIEL7&theme=blueberry" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=HANNIEL7&show_icons=true&theme=blueberry&locale=pt-br" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HANNIEL7&layout=compact&theme=blueberry&locale=pt-br" alt="Linguagens mais usadas" height="180"/>
+  <img src="./metrics.svg" alt="Métricas do GitHub"/>
 </div>
 
 ---
 
-## 📚 Atualmente aprendendo
+## Projetos em destaque
 
-- 🟦 TypeScript, NestJS e React Native  
-- 🔄 Node.js, Express e MongoDB  
-- 🔐 Autenticação com JWT  
-- 🧪 Testes com Jest e Supertest  
-- 💠 Desenvolvimento de jogos com C# e Unity  
-- 🧱 Arquitetura de APIs, REST, boas práticas backend
+- **Rotina** — aplicativo pessoal de produtividade em **Java/Spring Boot**, construído como laboratório de arquitetura de software: modelagem de domínio (`Hábito`, `RegistroDeHábito`, `CreditoDeCompensacao`), aplicação de testes de existência para distinguir entidades de casos de uso.
+- **API Música & Humor** — recomendação musical por humor, reconstruída do zero com **Java/Spring Boot** no backend e **React/TypeScript** no frontend, seguindo Clean Architecture. Unifica fluxos anônimo (catálogo mock) e autenticado (top tracks via Spotify) por meio de um único caso de uso.
+- **[API de Gerenciamento de Tarefas](https://github.com/HANNIEL7/GerenciadorDeTarefasAPI)** — API REST com autenticação JWT, MongoDB e Express.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
-Me tornar um **desenvolvedor backend completo**, com foco em criar APIs robustas, aplicações funcionais e jogos interativos para o dia a dia.
-
----
-
-## 🚀 Projetos em destaque
-
-- ✅ **[API de Gerenciamento de Tarefas](https://github.com/HANNIEL7/GerenciadorDeTarefasAPI)** — JWT, MongoDB, Express
-- 🎮 **Jogo com C# (em desenvolvimento)** — Lógica, pontuação, mecânicas básicas
-- 🔧 **Em breve:** Aplicativo de recomendações musicais baseado em humor
+Consolidar uma base sólida como **desenvolvedor backend júnior**, com domínio prático de Java/Spring Boot, princípios de arquitetura limpa e boas práticas de engenharia de software — aliando isso a uma compreensão crescente de segurança de sistemas e ambientes Linux.
 
 ---
 
-## 🎮 Curiosidades
+## Vamos nos conectar
 
-- 💻 Crio projetos autorais como forma prática de consolidar o aprendizado  
-- 🎮 Desenvolvo jogos e aplicações que podem ser úteis no cotidiano  
-- 🤝 Gosto de trocar ideias sobre tecnologia e ajudar outros devs em formação
-
----
-
-## 🔗 Vamos nos conectar!
-
-Sinta-se à vontade para me chamar ou acompanhar meus projetos.  
-Estou sempre buscando evoluir, colaborar e transformar ideias em código! 🚀
+Estou aberto a trocar ideias sobre backend, arquitetura de software e cibersegurança, além de oportunidades de colaboração e estágio/trainee.
 
 ---
 
